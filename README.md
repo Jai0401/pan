@@ -1,6 +1,4 @@
-#### 1. **Project Overview:**
-
-#### **Project Name**: Expo React Native Boilerplate
+### 1. **Project Overview:**
 
 #### **Description**:
 This project is a comprehensive React Native boilerplate that provides a solid foundation for building high-quality mobile applications. It incorporates modern development practices, including Expo, React Navigation, and TypeScript, to streamline the development process and enhance the user experience.
